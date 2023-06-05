@@ -12,3 +12,6 @@ A test for the markdown sintax
 ```
 System.out.printl("This is an example of a java code");
 ```
+- [x] Buy toilet paper
+- [x] Wash the dishes
+- [ ] Rule the world
